@@ -6,7 +6,7 @@ import Logo4 from '../img/Slider/logo4.PNG' // si existe, si no, borrá este blo
 function Slider(){
     return(
         <section class="bg-[#00715D] w-full">
-            <div class="flex items-center justify-around text-white px-4 max-w-[1440px] h-58 gap-20 m-auto">{/* CONTENIDO*/}
+            <div class="flex items-center justify-around text-white px-10 w-full h-58 gap-20 m-auto">{/* CONTENIDO*/}
                 
                 <div class="flex items-center ">
                     <div class="w-28">
