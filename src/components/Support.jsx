@@ -48,7 +48,7 @@ function Support(){
                             </div>
                         </div>
                         <div class="h-23 flex items-center justify-center">
-                            <a href="#" class="underline underline-offset-4 font-semibold">Biew All Campaign</a>
+                            <a href="#" class="underline underline-offset-4 font-semibold">view All Campaign</a>
                         </div>
                     </div>
                 </div>
