@@ -8,11 +8,11 @@ function Header(){
                 <div class="w-28 h-20">
                     <img src={Icono} alt="" class="w-full h-full object-fit"/>
                 </div>
-                <nav class="flex gap-3 font-semibold">
+                <nav class="flex gap-8 font-semibold font-[Poppins]">
                     <a href="#">About Us</a>
-                    <p>*</p>
+                    <p>•</p>
                     <a href="#">Campaing</a>
-                    <p>*</p>
+                    <p>•</p>
                     <a href="#">Contact US</a>
                 </nav>
             </div>
