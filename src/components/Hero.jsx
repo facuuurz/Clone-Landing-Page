@@ -6,7 +6,7 @@ import About from '../img/Hero/About.PNG'
 function Hero () {
     return (
         <div class="flex w-full font-[Poppins]">{/* ancho totoal */}
-            <div class="bg-[#F9F4E8] w-[50%] flex justify-end "> {/*Color de fondo */}
+            <div class="bg-[#FDF6EB] w-[50%] flex justify-end "> {/*Color de fondo */}
                 <div class="w-[720px] flex flex-col h-dvh px-3 justify-end gap-12">{/*Contenedor de los datos */}
                     {/* <div class="flex flex-col h-dvh justify-center px-3 gap-5">datos */}
                         <h1 class="font-serif font-black text-6xl">Charity Is An <br />
