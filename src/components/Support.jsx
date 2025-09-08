@@ -6,7 +6,7 @@ import Support3 from "../img/Support/Support3.jpg"
 function Support(){
     return(
         <section class="bg-[#F9F4E8] font-[Poppins]">
-            <div class="max-w-[1440px] flex flex-col px-4">{/* margen*/}
+            <div class="max-w-[1440px] flex flex-col px-4 m-auto">{/* margen*/}
                 <div class="flex">
                     <div class="">
                         <div class="flex flex-col gap-6 py-8">
