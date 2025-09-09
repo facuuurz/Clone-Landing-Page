@@ -30,10 +30,6 @@ function Points (){
 
                 </div>
             </div>
-            {/* Línea inferior */}
-                <div className="h-20 flex items-end p-8 w-full">
-                    <hr className="border-t-2 border-gray-400 min-w-5 w-full max-w-[1440px]" />
-                </div>
         </section>
     )
 }
