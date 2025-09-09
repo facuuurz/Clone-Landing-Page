@@ -1,6 +1,7 @@
 import Slider from "./Slider";
 import Support from "./Support"
 import About from "./About"
+import Team from "./Team"
 
 function Main () {
     return(
@@ -8,6 +9,7 @@ function Main () {
             <Slider/>
             <Support/>
             <About/>
+            <Team/>
         </main>
     )
 }

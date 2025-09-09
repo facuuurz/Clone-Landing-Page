@@ -3,8 +3,8 @@ import AboutImg from "../img/About/About.jpg"; // <-- ajustá esta ruta
 function About() {
   return (
     <section className="bg-[#F9F4E8] font-[Poppins] py-8">
-      <div className="max-w-[1440px] mx-auto flex flex-col px-4 py-8">
-        <div className="flex py-8">
+      <div className="max-w-[1440px] mx-auto flex flex-col px-4 pt-8">
+        <div className="flex pt-8">
           
           {/* Círculo con imagen */}
           <div class="w-[30%] relative">
