@@ -3,6 +3,7 @@ import Support from "./Support"
 import About from "./About"
 import Team from "./Team"
 import Points from "./Points"
+import CallToAction from "./CallToAction";
 
 function Main () {
     return(
@@ -12,6 +13,7 @@ function Main () {
             <About/>
             <Team/>
             <Points/>
+            <CallToAction/>
         </main>
     )
 }

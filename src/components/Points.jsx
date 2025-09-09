@@ -1,4 +1,4 @@
-import PointImg from "../img/Point/Point.PNG";
+import PointImg from "../img/Point/Point.png";
 
 
 
