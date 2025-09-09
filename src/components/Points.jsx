@@ -1,5 +1,6 @@
 import PointImg from "../img/Point/Point.png";
-
+import Point2 from "../img/Point/Point2.png";
+import Point3 from "../img/Point/Point3.png"
 
 
 function Points (){
@@ -28,6 +29,16 @@ function Points (){
                         </div>
                     </div>
 
+                </div>
+            </div>
+            <div class="bg-green-500 flex items-center justify-center h-0 relative">
+                <div class="flex gap-3 absolute -top-32">
+                    <div class="rounded-full ml-8 w-14 h-14 flex items-center justify-center cursor-pointer">
+                        <img src={Point2} alt="" class="w-7 h-7"/>
+                    </div>
+                    <div class="rounded-full bg-[#FAF0C9] w-14 h-14 flex items-center justify-center cursor-pointer">
+                        <img src={Point3} alt="" class="w-7 h-7"/>
+                    </div>
                 </div>
             </div>
         </section>
