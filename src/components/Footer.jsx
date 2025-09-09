@@ -56,7 +56,7 @@ function Footer(){
                     <hr className="border-t-2 border-gray-400 min-w-5 w-full max-w-[1440px]" />
                 </div>
 
-                <div class="px-8 flex items-center justify-between pb-8">
+                <div class="px-8 flex items-center justify-between pb-8 text-sm">
                     <p>Designed By Tanim Khan</p>
                     <a href="WWW.Dribbble.Com/Tanim_ui">WWW.Dribbble.Com/Tanim_ui</a>
                 </div>
