@@ -1,9 +1,9 @@
 // Team.jsx
 // Sección Team en un solo componente, siguiendo el mismo estilo de About
-import Team1 from "../img/Team/Team1.png"
-import Team2 from "../img/Team/Team2.png"
-import Team3 from "../img/Team/Team3.png"
-import Team4 from "../img/Team/Team4.png"
+import Team1 from "../img/Team/Team1.webp"
+import Team2 from "../img/Team/Team2.webp"
+import Team3 from "../img/Team/Team3.webp"
+import Team4 from "../img/Team/Team4.webp"
 
 function Team() {
   return (
@@ -21,7 +21,7 @@ function Team() {
 
             <div class="flex flex-col gap-5">
                 <div class="w-64 h-64 rounded-full overflow-hidden bg-[#FDD65B]">
-                    <img src={Team3} alt="" class="object-cover"/>
+                    <img src={Team4} alt="" class="w-full h-full object-cover"/>
                 </div>
 
                 <div class="flex flex-col items-center justify-center">
@@ -32,7 +32,7 @@ function Team() {
             
             <div class="flex flex-col gap-5">
                 <div class="w-64 h-64 rounded-full overflow-hidden bg-[#00715D]">
-                    <img src={Team2} alt="" class="object-cover"/>
+                    <img src={Team2} alt="" class="object-cover w-full h-full"/>
                 </div>
                 <div class="flex flex-col items-center justify-center">
                     <p class="font-serif font-semibold text-3xl">Dm Lincoln</p>
@@ -42,7 +42,7 @@ function Team() {
             
             <div class="flex flex-col gap-5">
                 <div class="w-64 h-64 rounded-full overflow-hidden bg-[#FDD65B]">
-                    <img src={Team4} alt="" />
+                    <img src={Team3} alt="" />
                 </div>
                 <div class="flex flex-col items-center justify-center">
                     <p class="font-serif font-semibold text-3xl">Serena Mei</p>
@@ -52,7 +52,7 @@ function Team() {
             
             <div class="flex flex-col gap-5">
                 <div class="w-64 h-64 rounded-full overflow-hidden bg-[#00715D]">
-                    <img src={Team1} alt="" />
+                    <img src={Team1} alt="" class="w-full h-full object-cover"/>
                 </div>
                 <div class="flex flex-col items-center justify-center">
                     <p class="font-serif font-semibold text-3xl">Abdel Latif</p>

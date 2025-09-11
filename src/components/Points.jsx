@@ -1,6 +1,6 @@
-import PointImg from "../img/Point/Point.png";
-import Point2 from "../img/Point/Point2.png";
-import Point3 from "../img/Point/Point3.png"
+import PointImg from "../img/Point/Point.webp";
+import Point2 from "../img/Point/Point2.webp";
+import Point3 from "../img/Point/Point3.webp"
 
 
 function Points (){

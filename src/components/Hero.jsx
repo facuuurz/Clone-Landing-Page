@@ -1,15 +1,15 @@
 import Boton from './Boton'
-import HeroImage from '../img/Hero/imagen-Hero.jpg'
-import About from '../img/Hero/About.PNG'
+import HeroImage from '../img/Hero/Hero.webp'
+import About from '../img/Hero/About.webp'
 
 
 function Hero () {
     return (
         <div class="flex w-full font-[Poppins]">{/* ancho totoal */}
-            <div class="bg-[#FDF6EB] w-[50%] flex justify-end "> {/*Color de fondo */}
-                <div class="w-[720px] flex flex-col h-dvh px-3 justify-end gap-12">{/*Contenedor de los datos */}
+            <div class="bg-[#FDF6EB] w-[50%] flex justify-end items-end"> {/*Color de fondo */}
+                <div class="w-[720px] flex flex-col h-[calc(100dvh-8rem)] px-8 justify-between">{/*Contenedor de los datos */}
                     {/* <div class="flex flex-col h-dvh justify-center px-3 gap-5">datos */}
-                        <h1 class="font-serif font-black text-6xl">Charity Is An <br />
+                        <h1 class="font-serif font-black text-7xl leading-tight">Charity Is An <br />
                             Act Of A Soft  <br />
                             Heart.
                         </h1>
@@ -18,7 +18,7 @@ function Hero () {
                             <div class="h-28 w-[60%] text-balance">
                                 <p class="text-gray-700">We've spent the last 5 years helping over 25,00000 teams just like yourself create and sustain successful online support.</p>
                             </div>
-                            <div class="flex gap-5 items-center gap-14">
+                            <div class="flex items-center gap-14">
                                 <Boton texto="Donate Now" alto="h-18" ancho="w-44"></Boton>
 
                                 <div class="h-40 w-60">
@@ -27,7 +27,7 @@ function Hero () {
                             </div>
                         </div>
                     
-                        <div class="flex items-center justify-around font-semibold pb-8">
+                        <div class="flex items-center justify-between font-semibold pb-8">
                             <a href="#">Youtube</a>
                             <p>•</p>
                             <a href="#">Facebook</a>

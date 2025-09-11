@@ -1,4 +1,4 @@
-import AboutImg from "../img/About/About.jpg"; // <-- ajustá esta ruta
+import AboutImg from "../img/About/About.webp";
 
 function About() {
   return (
@@ -8,8 +8,8 @@ function About() {
           
           {/* Círculo con imagen */}
           <div class="w-[30%] relative">
-            <div class="w-98 h-{35rem} overflow-hidden rounded-t-full absolute right-[-58%] top-[-11%]">
-                <img src={AboutImg} alt="" class="w-full h-full object-bottom"/>
+            <div class="w-[28rem] h-[29rem] overflow-hidden rounded-t-full absolute right-[-58%] top-[-20.9%]">
+                <img src={AboutImg} alt="" class="w-full h-full object-cover object-top"/>
             </div>
           </div>
           

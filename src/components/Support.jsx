@@ -1,6 +1,6 @@
-import Support1 from "../img/Support/Support1.jpg"
-import Support2 from "../img/Support/Support2.jpg"
-import Support3 from "../img/Support/Support3.jpg"
+import Support1 from "../img/Support/Support1.webp"
+import Support2 from "../img/Support/Support2.webp"
+import Support3 from "../img/Support/Support3.webp"
 
 
 function Support(){
@@ -18,7 +18,7 @@ function Support(){
                         <div class="flex justify-start items-center gap-8">
                             <div>
                                 <div class="w-96 h-80">
-                                <img src={Support1} alt="" class="w-full h-full object-cover"/>
+                                <img src={Support1} alt="" class="w-full h-full object-cover object-bottom"/>
                                 </div>
 
                                 <div class="flex items-center px-6 h-20 bg-white">
@@ -28,7 +28,7 @@ function Support(){
 
                             <div>
                                 <div class="w-96 h-80">
-                                <img src={Support2} alt="" class="w-full h-full object-cover"/>
+                                <img src={Support2} alt="" class="w-full h-full object-cover object-center"/>
                                 </div>
 
                                 <div class="flex items-center px-6 h-20 bg-white">
