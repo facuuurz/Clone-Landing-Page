@@ -10,7 +10,7 @@ La aplicación fue construida con:
 - 🎨 **Tailwind CSS**  
 - ⚡ **Vite** 
 
-El objetivo principal fue aplicar en un proyecto real los conceptos aprendidos a lo largo del curso, trabajando sobre el diseño, la maquetación y el responsive.  
+El objetivo principal fue aplicar en un proyecto real los conceptos aprendidos a lo largo del curso, trabajando sobre el diseño, la maquetación.  
 
 ## 🔗 Deploy  
 👉 [Ver proyecto online](https://clone-landing-page-psi.vercel.app/)  
